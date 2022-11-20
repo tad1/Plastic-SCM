@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "678ade93ec135d83",
+    "type": "split",
+    "children": [
+      {
+        "id": "54d73fb91180ebaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b92ea601268b54e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plastic Organization/Joining Organization/Joining Organization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1324fe5ebdcfb8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plastic Organization/Creating Organization/Creating Organization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "695f3ca612038699",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plastic Creating Repo/Creating Plastic Repo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "144030e8abbe6224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adding Unity Project/Adding New Project/Adding New Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38fb2c3c00b6722b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adding Unity Project/Opening Project/Opening Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95e988d34af9354c",
+    "type": "split",
+    "children": [
+      {
+        "id": "261378194ed2528d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b91239aebba5fd5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d80606766a59ca76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1c039687f1e5ab0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fc311cbc4c7b9217",
+    "type": "split",
+    "children": [
+      {
+        "id": "aac5e084ceec058f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c38b3d1344e2d82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Adding Unity Project/Opening Project/Opening Project.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "49b52660480b05eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Adding Unity Project/Opening Project/Opening Project.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "daf4a2566f172fc6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9bd77027ff862a59",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Adding Unity Project/Opening Project/Opening Project.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "38fb2c3c00b6722b",
+  "lastOpenFiles": [
+    "Adding Unity Project/Adding New Project/Adding New Project.md",
+    "Adding Unity Project/Opening Project/Opening Project.md",
+    "Adding Unity Project/Opening Project/a1.png",
+    "Plastic Creating Repo/Creating Plastic Repo.md",
+    "Plastic Organization/Creating Organization/Creating Organization.md",
+    "Plastic Organization/Joining Organization/Joining Organization.md"
+  ]
+}
