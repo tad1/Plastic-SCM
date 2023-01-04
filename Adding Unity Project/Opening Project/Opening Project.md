@@ -10,11 +10,11 @@ Next click on that arrow next to `Open`. And click on `Open remote project`
 
 ![[Adding Unity Project/Opening Project/a3.png]]
 
-If everything was set up correcly, you should see avaiable project.
+If everything was set up correcly, you should see the avaiable project.
 Otherwise check if you are in organization at https://www.plasticscm.com/. And the project was set up on **cloud** repository.
 ![[Adding Unity Project/Opening Project/a4.png]]
 
-After selecting project you might see a warning. It simply says that Plastic SCM it not supported in old verions of Unity. Make sure that you select **Unity 2022.1.18f1** for this project.
+After selecting project you might see a warning. It simply says that Plastic SCM it not supported in old verions of Unity. Make sure that you select correct version for this project.
 ![[a5.png]]
 
 After that you should see icon **Source Control** next to project name.

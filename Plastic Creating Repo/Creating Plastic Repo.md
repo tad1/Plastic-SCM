@@ -1,6 +1,7 @@
 Requirements: Plastic SCM Organization.
 
-Download and Install Plastic SCM **Cloud Version** from https://www.plasticscm.com/download
+Download and Install Plastic SCM **Cloud Version** from:
+https://www.plasticscm.com/download
 
 Run **Plastic SCM**. And login with `Unity ID`.
 

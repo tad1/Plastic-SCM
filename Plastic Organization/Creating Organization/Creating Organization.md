@@ -1,4 +1,5 @@
-Only one person needs to create organization. If one of you teammates gone through this steps go to **Joining Organization** instruction.
+Only one person needs to create an organization. If one of your teammates has already  
+gone through these steps, go to **Joining Organization** instructions.
 
 Visit https://www.plasticscm.com/
 ![[Plastic Organization/Creating Organization/1.png]]
@@ -22,7 +23,7 @@ In `Personal Details` you can set `Company` to "*None*"
 A: They need that for documents like invoice or recipt.
 ![[3_1.png]]
 
-After creating account go to admin panel.
+After creating account go to the admin panel.
 ![[Plastic Organization/Creating Organization/4.png]]
 
 Next go to `Cloud` panel.
@@ -46,5 +47,5 @@ Simply click `Add new user` and enter email. **The same which is used for teamma
 After `saving` you will see that new user appeared.
 ![[Plastic Organization/Creating Organization/10.png]]
 
-In order to finish invitation your teammate needs to login to Plastic SCM via `Unity ID`. 
-Just send him **Joining Organization** instruction.
+n order to finish the invitation, your teammate must log in to Plastic SCM via `Unity ID`.  
+Just send him **Joining Organization** instructions.

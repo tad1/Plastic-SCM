@@ -6,7 +6,7 @@ Requirements:
 Firstly, open **Unity Hub**, and make sure that you are logged in.
 ![[Adding Unity Project/Adding New Project/1.png]]
 
-Next, open new or existing Unity project.
+Next, open a new or an existing Unity project.
 Select `Window` in Unity Editor.
 ![[Adding Unity Project/Adding New Project/2.png]]
 
@@ -33,7 +33,7 @@ If you created repository in **Plastic SCM**, you should see it on a list.
 Select your repository, and go to the next step.
 ![[Adding Unity Project/Adding New Project/8.png]]
 
-Make sure that you correct repository is selected. And create workspace.
+Make sure that correct repository is selected. And create workspace.
 ![[Adding Unity Project/Adding New Project/9.png]]
 
 After that you should see something similar to picture below.
